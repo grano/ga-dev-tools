@@ -45,5 +45,8 @@
     "svg4everybody": "jonathantneal/svg4everybody#1.0.0",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.0.0"
+  },
+  "dependencies": {
+    "cookies-js": "^1.2.1"
   }
 }
